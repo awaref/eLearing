@@ -10,7 +10,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <img src="{{ asset('public/img/slider_s1b.jpg') }}" alt="" />
+                <img src="{{ asset('public/E-Learning-master/img/slider_s1b.jpg') }}" alt="" />
                 <div class="container">
                     <div class="carousel-caption">
                         <p class="header animated" data-animation="fadeInUp" data-animation-delay="0.2s"><strong>Learning</strong> online from everywhere via <strong>web</strong></p>

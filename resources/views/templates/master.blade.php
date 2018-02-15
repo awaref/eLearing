@@ -21,10 +21,10 @@
 
 
     <!--mohab's template CSS Files -->
-    <link rel="stylesheet" href="{{ asset('public/plugin/bootstrap/css/bootstrap.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('public/plugin/font-awesome/css/font-awesome.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('public/css/style.css') }}" />
-    <link rel="stylesheet" href="{{ asset('public/plugin/animate.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('public/E-Learning-master/plugin/bootstrap/css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('public/E-Learning-master/plugin/font-awesome/css/font-awesome.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('public/E-Learning-master/css/style.css') }}" />
+    <link rel="stylesheet" href="{{ asset('public/E-Learning-master/plugin/animate.min.css') }}" />
 
     <!-- Customized CSS File(your own code) -->
     <link rel="stylesheet" href="{{ asset('public/css/custom.css') }}" />
@@ -59,11 +59,11 @@
     <!---------------------->
     <!-- the file ['public/js/app.js'] is very important to be included for Vue.js -->
     <script src="{{ asset('public/js/app.js') }}"></script>
-    <script src="{{ asset('public/plugin/jquery-1.10.2.min.js') }}"></script>
-    <script src="{{ asset('public/plugin/bootstrap/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('public/script/animate.js') }}"></script>
-    <script src="{{ asset('public/plugin/jquery.cuteTime.min.js') }}"></script>
-    <script src="{{ asset('public/script/script.js') }}"></script>
+    <script src="{{ asset('public/E-Learning-master/plugin/jquery-1.10.2.min.js') }}"></script>
+    <script src="{{ asset('public/E-Learning-master/plugin/bootstrap/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('public/E-Learning-master/script/animate.js') }}"></script>
+    <script src="{{ asset('public/E-Learning-master/plugin/jquery.cuteTime.min.js') }}"></script>
+    <script src="{{ asset('public/E-Learning-master/script/script.js') }}"></script>
     <!-- / JavaScript Files -->
 
     <!-- include the axios library-->
